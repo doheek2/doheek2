@@ -1,8 +1,10 @@
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doheek2&theme=swift&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  
+
   #### 🐣 안녕하세요! 저는 프론트엔드 개발자 강도희입니다!
+
+  <br />
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doheek2&theme=swift&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   #### 📍 Skills
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
