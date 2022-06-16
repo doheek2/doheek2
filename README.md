@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doheek2&theme=vue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   <b>🐣 안녕하세요! 저는 프론트엔드 개발자 강도희입니다!</b>
   
